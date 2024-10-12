@@ -1,6 +1,6 @@
-##BASIC PHP
+## BASIC PHP
 
-#fitur 
+# fitur 
 - array
 - elseif
 - form
